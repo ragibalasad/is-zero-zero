@@ -56,7 +56,7 @@ You'll see a bunch of checks that all (somehow) confirm that 0 is indeed 0.
 
 Because the internet needs more weird stuff.  
 Because overengineering is a sport.  
-Because someone once made a repo called `is_even` that checks if a number is even — with one function per number — and I felt challenged.
+Because someone once made a repo called `is_even` that checks if a number is even — with one `if` condition per number — and I felt challenged.
 
 ## License
 MIT — because chaos should be free.
