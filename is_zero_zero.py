@@ -10,7 +10,7 @@ def is_zero_unicode_match():
 
 def is_zero_cos_arccos():
     # Using trigonometry for some reason
-    return math.cos(math.acos(0)) == 0
+    return round(math.cos(math.acos(0)), 10) == 0
 
 def is_zero_by_list_sum():
     # Using list comprehension and sum to prove nothing
